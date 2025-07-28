@@ -72,5 +72,5 @@ go run main.go <facebook_post_url_or_share_link>
 
 ## 📬 Contact
 
-- ✉️ **Email:** haronkibetrutoh@gmail.com
-- 📱 **WhatsApp:** +254718448461
+- ✉️ **Email:** aronkipkorir254@gmail.com
+- 📱 **WhatsApp:** +254701416017
