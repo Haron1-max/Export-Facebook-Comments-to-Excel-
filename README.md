@@ -73,4 +73,4 @@ go run main.go <facebook_post_url_or_share_link>
 ## 📬 Contact
 
 - ✉️ **Email:** aronkipkorir254@gmail.com
-- 📱 **WhatsApp:** +254701416017
+- 📱 **WhatsApp:** +254 701 416 017.
